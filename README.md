@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mehak</h1>
+<h1 align="center">Hi , I'm Mehak</h1>
 <h3 align="center">A passionate Mern Stack Developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehak225&label=Profile%20views&color=0e75b6&style=flat" alt="mehak225" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehak225" alt="mehak225" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🌱 I’m currently learning **MongoDb , Node.js , App Development**
 
